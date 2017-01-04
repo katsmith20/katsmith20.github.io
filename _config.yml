@@ -1,0 +1,21 @@
+# Site settings
+title: Katie Smith's Coding Blog
+header-img: img/home-bg.png
+email: catesmith0@gmail.com
+copyright_name: katsmith20
+description: > # this means to ignore newlines until "baseurl:"
+  Flatiron School Inc. Student Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  katsmith20
+learn_profile: katsmith20
+email_username: catesmith0@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
