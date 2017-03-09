@@ -4,7 +4,7 @@ title:  "The Design Third Eye"
 date:   2017-02-24 15:51:42 -0500
 ---
 
-**A New Set of Eyes **
+**A New Set of Eyes** 
 
 HTML and CSS have presented a new set of challenges I am so excited to face. I've always wanted to have the "eye" for design. When I think about designers I picture clear framed glasses, white tee, black jeans. Maybe a piercing or tattoo? There's always something about them you can't quite put your finger that just gives them this innate "hipness." 
 
